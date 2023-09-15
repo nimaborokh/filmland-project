@@ -1,0 +1,16 @@
+:root {
+    --bgall: black;
+    --bg1: #rgba(34, 34, 34, 0.9);
+    --bg2: #eb8307;
+    --txbg1: rgb(97, 97, 95);
+    --txbg2: rgba(34, 34, 34, 0.9);
+}
+body {
+    background-color: var(--bgall);
+    margin: 0px;
+    padding: 0px;
+}
+.container {
+    display: grid;
+    width: 100%;
+}
